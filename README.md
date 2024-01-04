@@ -1,2 +1,2 @@
-# DDD1050
-Codigo em c# para verificar o DDD
+# DDD-1050
+Codigo de exercicio em c# para verificar o DDD.
